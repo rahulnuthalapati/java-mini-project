@@ -1,0 +1,266 @@
+run:
+choose
+1.Add_Dish
+2.Remove_dish
+3.Update_dish
+4.place Order
+5.Bill Generation
+Enter your choice : 1
+
+Adding Food Items 
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 1
+
+Enter Food Name : chicken65
+Enter Food Price : 200
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+ <<<----Moving Backward
+
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 1
+
+Enter Food Name : gobi65
+Enter Food Price : 150
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+ <<<----Moving Backward
+
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 2
+
+Enter Food Name : biriyani
+Enter Food Price : 230
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+ <<<----Moving Backward
+
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 2
+
+Enter Food Name : meals
+Enter Food Price : 60
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+ <<<----Moving Backward
+
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 3
+
+Enter Food Name : halfboil
+Enter Food Price : 15
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+ <<<----Moving Backward
+
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 3
+
+Enter Food Name : chillichicken
+Enter Food Price : 180
+Do You want to continue? (Yes/No)
+Enter your choice: n
+
+ <<<----Moving Backward
+
+
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+choose
+1.Add_Dish
+2.Remove_dish
+3.Update_dish
+4.place Order
+5.Bill Generation
+Enter your choice : 2
+
+removing Food Items 
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 2
+NAME :biriyani
+Price : 230.0
+NAME :meals
+Price : 60.0
+
+Enter Food Name : biriyani
+*** Item removed ***
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+ <<<----Moving Backward
+
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 3
+NAME :halfboil
+Price : 15.0
+NAME :chillichicken
+Price : 180.0
+
+Enter Food Name : halfboil
+*** Item removed ***
+Do You want to continue? (Yes/No)
+Enter your choice: n
+
+ <<<----Moving Backward
+
+
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+choose
+1.Add_Dish
+2.Remove_dish
+3.Update_dish
+4.place Order
+5.Bill Generation
+Enter your choice : 3
+
+Updating Food Items 
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 1
+NAME :chicken65
+Price : 200.0
+NAME :gobi65
+Price : 150.0
+
+Enter Food Name : gobi65
+
+Enter the Price : 100
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 2
+NAME :meals
+Price : 60.0
+
+Enter Food Name : meals
+
+Enter the Price : 80
+Do You want to continue? (Yes/No)
+Enter your choice: n
+
+
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+choose
+1.Add_Dish
+2.Remove_dish
+3.Update_dish
+4.place Order
+5.Bill Generation
+Enter your choice : 4
+
+ordering Food Items 
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 1
+NAME :chicken65
+Price : 200.0
+NAME :gobi65
+Price : 100.0
+Enter Food Name : chicken65
+Enter the Qty : 2
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 2
+NAME :meals
+Price : 80.0
+Enter Food Name : meals
+Enter the Qty : 3
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+choose
+1.Starters
+2.MainDish
+3.SideDish
+Enter your choice : 3
+NAME :chillichicken
+Price : 180.0
+Enter Food Name : chillichicken
+Enter the Qty : 1
+Do You want to continue? (Yes/No)
+Enter your choice: n
+
+
+Do You want to continue? (Yes/No)
+Enter your choice: y
+
+choose
+1.Add_Dish
+2.Remove_dish
+3.Update_dish
+4.place Order
+5.Bill Generation
+Enter your choice : 5
+your order is : 
+NAME :chicken65
+Price : 200.0
+Qty : 2
+NAME :meals
+Price : 80.0
+Qty : 3
+NAME :chillichicken
+Price : 180.0
+Qty : 1
+You need to pay : 820.0 Rs/-
+
+Do You want to continue? (Yes/No)
+Enter your choice: n
+
+BUILD SUCCESSFUL (total time: 4 minutes 11 seconds)
